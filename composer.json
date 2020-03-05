@@ -1,4 +1,13 @@
 {
+    "name": "lhorse\/weather",
+    "description": "Package description here.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "jun",
+            "email": "641003165@qq.com"
+        }
+    ],
     "autoload": {
         "psr-4": {
             "Lhorse\\Weather\\": "src"
